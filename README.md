@@ -1,2 +1,2 @@
 # Learning-Algorithms
-Implementation of different algorithms using simple datasets
+Implementation of different machine learning algorithms using simple datasets
